@@ -1,0 +1,110 @@
+body{
+    background-color:aliceblue;
+}
+div{
+    width: 430px;
+    height: 360px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    left:760px;
+    top: 120px;
+}
+.email{
+    width: 350px;
+    height: 45px;
+    border-radius: 7px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.passward{
+    width: 350px;
+    height: 45px;
+    border-radius: 7px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+.Login{
+    width: 350px;
+    height: 45px;
+    position: relative;
+    top: 60px;
+    left: 25px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: darkblue;
+    cursor: pointer;
+}
+.forgotten{
+    width: 350px;
+    height: 30px;
+    position: relative;
+    top: 80px;
+    left: 140px;
+    text-decoration: none;
+    color: blue;
+}
+.forgotten:hover{
+    text-decoration: underline;
+}
+.horizontal{
+    position: relative;
+    top: 90px;
+    width: 340px;
+    right: 10px;
+}
+.new{
+    width: 200px;
+    height: 50px;
+    border-radius: 7px;
+    position: relative;
+    left: 110px;
+    top: 100px;
+    background-color:green;
+    color: white;
+}
+.new:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+}
+.page{
+    width: 350px;
+    height: 30px;
+    border-radius: 7px;
+    position: relative;
+    left: 800px;
+    top: 170px;
+    text-decoration: none;
+    color: black;
+}
+.page:hover{
+    text-decoration: underline;
+}
+.paragraph{
+    width: 350px;
+    height: 30px;
+    border-radius: 7px;
+    position: relative;
+    left: 896px;
+    top: 136px;
+    text-decoration: none;
+    color:black;
+}
+.logo{
+    width: 300px;
+    position: relative;
+    bottom: 270px;
+    left: 150px;
+}
+.paragraph-1{
+    font-size: xx-large;
+    position: relative;
+    bottom: 320px;
+    left: 178px;
+}
